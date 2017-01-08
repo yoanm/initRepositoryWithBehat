@@ -3,3 +3,21 @@
 > *Implementations are compliant to this* **[Tests strategy](https://github.com/yoanm/Readme/blob/master/TESTS_STRATEGY.md)**
 
 Command to initialize Behat configuration and folders hierarchy
+
+:warning: **Requires** this [Composer implementation](https://github.com/yoanm/intRepositoryWithComposer) (See [Tests strategy rule - base namespace](https://github.com/yoanm/Readme/blob/master/TESTS_STRATEGY.md#rules-base-namespace))
+
+ * [Configuration reference](#configuration-reference)
+ * [Tests strategy rules validated by configuration reference](#rules-validated)
+  * [Mandatory](#rules-validated-mandatory)
+
+## Configuration reference
+
+```yaml
+...
+```
+
+<a name="rules-validated"></a>
+## [Tests strategy rules](https://github.com/yoanm/Readme/blob/master/TESTS_STRATEGY.md#rules) validated by [configuration reference](#configuration-reference)
+
+<a name="rules-validated-mandatory"></a>
+### Mandatory
