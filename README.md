@@ -4,7 +4,7 @@
 
 Command to initialize Behat configuration and folders hierarchy
 
-:warning: **Requires** this [Composer implementation](https://github.com/yoanm/intRepositoryWithComposer)
+:warning: **Requires** this [Composer implementation](https://github.com/yoanm/initRepositoryWithComposer)
 
  * [Configuration reference](#configuration-reference)
  * [Tests strategy rules validated by configuration reference](#rules-validated)
