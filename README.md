@@ -4,7 +4,7 @@ Command to initialize Behat configuration and folders hierarchy
 
 > *Implementations are compliant to this* **[Tests strategy](https://github.com/yoanm/Readme/blob/master/TESTS_STRATEGY.md)**
 
-:warning: **Requires** this [Composer implementation](https://github.com/yoanm/initRepositoryWithComposer)
+> :warning: **Requires** this [Composer implementation](https://github.com/yoanm/initRepositoryWithComposer)
 
  * [Configuration reference](#configuration-reference)
  * [Tests strategy rules validated by configuration reference](#rules-validated)
