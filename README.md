@@ -17,7 +17,7 @@ Command to initialize Behat configuration and folders hierarchy
 ```
 
 <a name="rules-validated"></a>
-## [Tests strategy rules](https://github.com/yoanm/Readme/blob/master/TESTS_STRATEGY.md#rules) validated by [configuration reference](#configuration-reference)
+## [Tests strategy rules](https://github.com/yoanm/Readme/blob/master/strategy/tests/README.md#rules) validated by [configuration reference](#configuration-reference)
 
 <a name="rules-validated-mandatory"></a>
 ### Mandatory
